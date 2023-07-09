@@ -16,5 +16,5 @@ In the project directory, you can run:
 
 ###Website-Link
 
-`[Link text](https://crypto-website-ot865byps-tejaso23.vercel.app)`
+[Link text](https://crypto-website-ot865byps-tejaso23.vercel.app)
 
