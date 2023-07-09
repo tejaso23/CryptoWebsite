@@ -11,7 +11,8 @@ In the project directory, you can run:
 
 ### Deployment
 
-crypto-website-ot865byps-tejaso23.vercel.app
+`crypto-website-ot865byps-tejaso23.vercel.app`
+
 
 ###Website-Link
 
